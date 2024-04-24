@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppRocket", "WpfAppRocket.csproj", "{D5F108B8-4AEC-418E-A7B5-4E649D3A4F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F108B8-4AEC-418E-A7B5-4E649D3A4F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F108B8-4AEC-418E-A7B5-4E649D3A4F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F108B8-4AEC-418E-A7B5-4E649D3A4F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F108B8-4AEC-418E-A7B5-4E649D3A4F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B95650-DE52-4970-A2DB-84D5238978AB}
+	EndGlobalSection
+EndGlobal
